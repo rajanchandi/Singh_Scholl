@@ -1,0 +1,68 @@
+﻿.mba1{
+    width:50%;
+    
+    margin:50px auto;
+}
+
+.mba1 h1{
+    text-align: center;
+    font-size: 2.375em;
+    font-weight: 400;
+    font-family: GillSansMT,"Gill Sans MT",GillSans,Calibri,"Trebuchet MS","Nimbus Sans L",sans-serif;
+}
+
+.mba1 h2 {
+    text-align: center;
+    font-size: 1.375em;
+    font-weight: 400;
+    font-family: GillSansMT,"Gill Sans MT",GillSans,Calibri,"Trebuchet MS","Nimbus Sans L",sans-serif;
+}
+
+
+.mba1 p {
+    word-spacing: 10px;
+    line-height: 1.5em;
+    display:block;
+    
+}
+
+.mba2 {
+    
+    margin:0px auto;
+    background-color: #008b8e;
+    width:60%;
+    text-align:center;
+    padding:10px;
+    line-height:50px;
+    color:white;
+}
+    .mba2 a {
+        text-decoration: none;
+        color:white;
+    }
+
+.mba3 {
+    width: 50%;
+    margin: 50px auto;
+}
+
+    .mba3 h1 {
+        text-align: left;
+        font-size: 2.375em;
+        font-weight: 400;
+        font-family: GillSansMT,"Gill Sans MT",GillSans,Calibri,"Trebuchet MS","Nimbus Sans L",sans-serif;
+    }
+
+    .mba3 h2 {
+        text-align: left;
+        font-size: 1.375em;
+        font-weight: 600;
+        font-family: GillSansMT,"Gill Sans MT",GillSans,Calibri,"Trebuchet MS","Nimbus Sans L",sans-serif;
+    }
+
+
+    .mba3 p {
+        word-spacing: 10px;
+        line-height: 1.5em;
+        display: block;
+    }

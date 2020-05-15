@@ -1,0 +1,38 @@
+﻿.bba1 {
+    width: 50%;
+    margin: 50px auto;
+}
+
+    .bba1 h1 {
+        text-align: left;
+        font-size: 2.375em;
+        font-weight: 400;
+        font-family: GillSansMT,"Gill Sans MT",GillSans,Calibri,"Trebuchet MS","Nimbus Sans L",sans-serif;
+    }
+
+    .bba1 p {
+        word-spacing: 10px;
+        line-height: 1.5em;
+        display: block;
+    }
+
+
+
+.bba2 {
+    margin: 0px auto;
+    background-color: #008b8e;
+    width: 60%;
+    text-align: center;
+    padding: 10px;
+    line-height: 50px;
+    color: white;
+}
+
+    .bba2 a {
+        text-decoration: none;
+        color: white;
+    }
+
+ul li {
+    line-height: 30px;
+}
