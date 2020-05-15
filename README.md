@@ -26,6 +26,8 @@ o	40GB hard disk drive
 o	Windows XP/7/10 operating system.
 o	JRE and JDK.
 o	MySQL server (WAMP or XAMPP or any)
+
+# ScreenShots
 ![12](https://user-images.githubusercontent.com/57304597/82061616-f6513780-9696-11ea-8689-f1b7464995a5.png)
 ![22](https://user-images.githubusercontent.com/57304597/82061627-f81afb00-9696-11ea-9fa4-d49850450603.png)
 ![23](https://user-images.githubusercontent.com/57304597/82061629-f94c2800-9696-11ea-9c89-a7983a329e47.png)
